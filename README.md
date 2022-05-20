@@ -1,6 +1,6 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnathuw&label=Profile%20views&color=0e75b6&style=flat" alt="mnathuw" /> </p>
  
- # <p align="center"> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50" height="50" /> Hello, I'm Thu Mai <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50" height="50" /> </p>
+ # <p align="center"> Hello, I'm Thu Mai <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50" height="50" /> </p>
 [![Twitter Follow](https://img.shields.io/twitter/follow/mnathuw?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/mnathuw)
 
 ## I'm an RRC Grad, aspiring software developer, and your buddy!!
