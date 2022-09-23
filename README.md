@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning React.js, Typescript, Next.js, Nest.js, Docker, database (MongoDB, MySQL & Postgres), and Linux.
 - 👯 I’m looking for a full-time software engineer in Winnipeg, MB.
 - 🥅 2022 Goals: Become a software engineer.
-- ⚡ I will become a full-stack developer one day.
 - 😻 A cat lover && Genshin Impact player.
 - 📄 Here is my resume: [Resume](https://mnathuw.github.io/)
 - 📫 Reach me at mnathu98@gmail.com.
