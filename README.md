@@ -6,7 +6,7 @@
 ## I'm an RRC Grad, aspiring software developer, and your buddy!!
 
 - 🌱 I’m currently learning React.js, Typescript, Next.js, Nest.js, Docker, database (MongoDB, MySQL & Postgres), and Linux.
-- 👯 I’m looking for a full-time software engineer and I am willing to relocate in order to fit the company culture if you consider me as a part of your team.
+<!-- 👯 I’m looking for a full-time software engineer and I am willing to relocate in order to fit the company culture if you consider me as a part of your team.-->
 - 🥅 2022 Goals: Have a good sleep.
 - 📄 Here is my resume: [Resume](https://mnathuw.github.io/)
 - 📫 Reach me at mnathu98@gmail.com.
