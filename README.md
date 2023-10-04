@@ -2,8 +2,6 @@
  
  # <p align="center"> Hello, I'm Thu Mai <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50" height="50" /> </p>
 
-## I'm an RRC Grad, aspiring software developer, and your buddy!!
-
 - 📫 Reach me at mnathu98@gmail.com.
 <!-- 👯 I’m looking for a full-time software engineer and I am willing to relocate in order to fit the company culture if you consider me as a part of your team.-->
 ### Connect with me:
